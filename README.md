@@ -1,16 +1,15 @@
-### Hi there 👋
+## Olá! Seja muito bem-vindo(a)! <br> Sou, Arthur Oliveira.👋
 
-<!--
-**Arthores/Arthores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Alguns pontos rápidos sobre mim no momento:
 
-Here are some ideas to get you started:
+- 🌱 Atualmente estou aprendendo mais sobre a biblilioteca Raect.JS, uma ferramenta que a cada dia se mostra ser íncrivelmente útil.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/Arthores">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthores&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthores&layout=compact&langs_count=7&theme=slateorange"/> -->
+</div>
+  <a/>
+<div>
+  Infelizmente sem projetos próximos até o momento, Estou trabalhando nisso no momento.
+ </div>
