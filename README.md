@@ -15,7 +15,7 @@ Alguns pontos rápidos sobre mim no momento:
  </div>
 
   ##
-  Algumas linguagens que utilizo:
+  Algumas linguagens e FrameWorks que utilizo:
   <div display: inline-block>
     <img aling: center height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img aling: center height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
