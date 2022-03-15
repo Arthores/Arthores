@@ -2,7 +2,7 @@
 
 Alguns pontos rápidos sobre mim no momento:
 
-- 📚 ⚛️ Atualmente estou aprendendo mais sobre a biblilioteca Raect.JS, uma ferramenta que a cada dia se mostra ser íncrivelmente útil.
+- 📚 ⚛️ Focando meus estudos para me direcionar na área de FullStack, com conhecimentos em Frontend e estudando Backend.
 
 <div align="center">
   <a href="https://github.com/Arthores">
@@ -10,10 +10,7 @@ Alguns pontos rápidos sobre mim no momento:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthores&layout=compact&langs_count=7&theme=slateorange"/>
 </div>
   <a/>
-<div>
-  Infelizmente sem projetos próximos até o momento. Pórem, estou trabalhando nisso no momento.🛠️💻
- </div>
-
+  
   ##
   Algumas linguagens e FrameWorks que utilizo:
   <div display: inline-block>
