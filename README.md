@@ -6,13 +6,13 @@ Alguns pontos rápidos sobre mim no momento:
 
 <div align="center">
   <a href="https://github.com/Arthores">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthores&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthores&layout=compact&langs_count=7&theme=slateorange"/>
+  <img height="175em" width="450em" src="https://github-readme-stats.vercel.app/api?username=Arthores&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
+  <img height="175em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthores&layout=compact&langs_count=7&theme=slateorange"/>
 </div>
   <a/>
   
   ##
-  Algumas linguagens e FrameWorks que utilizo:
+  Algumas tecnologias e Linguagens as quais eu tenho mais domínio:
   <div display: inline-block>
     <img aling: center height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img aling: center height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
