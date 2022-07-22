@@ -2,7 +2,7 @@
 
 Alguns pontos rápidos sobre mim no momento:
 
-- 📚 ⚛️ Focando meus estudos para me direcionar na área de FullStack, com conhecimentos em Frontend e estudando Backend.
+- 📚 ⚛️ Focando em meus estudos como desenvolvedor Full-Stack.
 
 <div align="center">
   <a href="https://github.com/Arthores">
@@ -18,6 +18,10 @@ Alguns pontos rápidos sobre mim no momento:
     <img aling: center height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
     <img aling: center height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
     <img aling: center height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+    <img aling: center height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+    <img aling: center height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+    <img aling: center height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+    <img aling: center height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   </div>
   
   ##
@@ -30,4 +34,4 @@ Alguns pontos rápidos sobre mim no momento:
 
   ##
   
-  Abaixo alguns dos meus projetos mais recentes em JS.
+  Abaixo alguns dos meus projetos mais recentes.
