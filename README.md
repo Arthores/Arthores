@@ -1,4 +1,4 @@
-## Olá! Seja muito bem-vindo(a)! <br> Sou, Arthur Oliveira.👋
+## Olá! Seja muito bem-vindo(a)! <br> Sou, Arthur Oliveira.Pessoa Desenvolvedora Full-Stack!👋
 
 Alguns pontos rápidos sobre mim no momento:
 
@@ -14,10 +14,10 @@ Alguns pontos rápidos sobre mim no momento:
   ##
   Algumas linguagens e FrameWorks que utilizo:
   <div display: inline-block>
-    <img aling: center height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img aling: center height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-    <img aling: center height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-    <img aling: center height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+    <img aling: center height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img aling: center height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+    <img aling: center height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+    <img aling: center height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   </div>
   
   ##
