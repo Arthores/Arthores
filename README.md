@@ -1,8 +1,11 @@
 ## Olá! Seja muito bem-vindo(a)! <br> Sou, Arthur Oliveira.Pessoa Desenvolvedora Full-Stack!👋
 
-Alguns pontos rápidos sobre mim no momento:
+Alguns pontos rápidos sobre mim :
 
-- 📚 ⚛️ Focando em meus estudos como desenvolvedor Full-Stack.
+- Apaixonado pelo mundo geek, astronomico e tecnologico.
+- Sou um desenvolvedor que escolheu o lado Front/Mobile da força. 
+- Focando em me qualificar ainda mais em meus conhecimentos.
+- Atualmente estudando Python e Ruby on Rails.
 
 <div align="center">
   <a href="https://github.com/Arthores">
